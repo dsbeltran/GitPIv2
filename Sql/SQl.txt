@@ -1,0 +1,1 @@
+ALTER TABLE `estandar_de_produccions` CHANGE `est_nombre` `est_nombre` VARCHAR(15) NOT NULL;

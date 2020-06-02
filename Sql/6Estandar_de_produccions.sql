@@ -1,0 +1,21 @@
+INSERT INTO estandar_de_produccions(est_id, mez_id, qui_id, est_nombre, est_descripcion)
+	VALUES 
+    (901, 501, 401, 'JME1lt', 'Jabon Mano Economico 1lt'),
+    (902, 502, 402, 'JCE500ml', 'Jabon Mano Economico 500ml'),
+    (903, 503, 403, 'JCE250ml', 'Jabon Mano Economico 250ml'),
+    (904, 504, 404, 'JMNE1lt', 'Jabon Mano Niños Economico 1lt'),
+    (905, 505, 405, 'JMNE500ml', 'Jabon Mano Niños Economico 500ml'),
+    (906, 506, 406, 'JMNE250ml', 'Jabon Mano Niños Economico 250ml'),
+    (907, 507, 407, 'JCE1lt', 'Jabon Cara Economico 1lt'),
+    (908, 508, 401, 'JCE500ml', 'Jabon Cara Economico 500ml'),
+    (909, 501, 402, 'JCE250ml', 'Jabon Cara Economico 250ml'),
+    (910, 502, 403, 'SpMa', 'Shampoo Manzanilla'),
+    (911, 503, 404, 'SpSv', 'Shampoo Savila'),
+    (912, 504, 405, 'TinCbTip1', 'Tinte Cabello rubio'),
+    (913, 505, 406, 'TinCbTip2', 'Tinte Cabello moreno'),
+    (914, 506, 407, 'GelAnti', 'Alcohol antivacterial'),
+    (915, 507, 401, 'CrDes', 'Crema Desmaquillante'),
+    (916, 508, 402, 'TlBB', 'Talco bebe'),
+    (917, 501, 403, 'Rin', 'Rinse'),
+    (918, 502, 404, 'SpCp', 'Shampoo Caspa'),
+    (919, 503, 405, 'SpAc', 'Shampoo anticaida');
