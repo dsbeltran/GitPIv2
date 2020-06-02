@@ -1,2 +1,2 @@
 # GitPIv2
-Proyecto intrgrado
+Proyecto integrador
